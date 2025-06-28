@@ -1,0 +1,16 @@
+Attrubutes: 
+common aatr:
+obj attr:
+it has three types: 
+1. Private attributes: can be accessed within the class
+syntax: 
+   fuction(self.__model=model) this is now private
+2. protected attrubutes: intended to be used within the class
+syntax:
+   _
+3. Public attributes: 
+
+
+the special methods like getter() and setter() can be used to access the private 
+another way is to use the Name Mangling: pyhton changes the method internally we can access it like 
+print(p1._ClassName__attributeName)

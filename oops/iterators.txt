@@ -1,0 +1,9 @@
+iterators: are core concept and they follow for efficient and flexible traversal throught dta structures like tuple, list, 
+set email_container
+number=[1,2,3]
+iterator: is any object that implements two methods
+1. __iter__():this return the iterator object itself
+2. __next__():
+3. inbuilt iter and next it will print 1 one 1 element manually
+4. using loops withe iterators
+5. custom iterator

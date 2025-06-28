@@ -1,0 +1,31 @@
+oops: object ooriented programming in python:
+1. but the python is not fully oopl
+in pythong we create class:prototypes, design,template,blue print
+and objects: real world entity entities
+in python there are four basic principles:
+1. Inheritance: inherit the things
+2. Polymorphism: print(1+2)=3, print('1'+'2')=12
+3. Abstraction: file ->first.py
+                     def add(a,b)
+                     return a+b second.py def sub(a,b) return (a-b)
+4. Encapsulatoin: we bundle things
+
+
+what is inside in the class:
+attributes: two types: class attribute  
+data: 
+methods: we use  the functions in the class
+
+constructor: In python  it gets initialized automatically when we create the new obj
+
+variables: 
+1. instance variables: inside the functions
+2. class variable: inside the class but outside the functions
+
+self parameter:
+   self parameter in the methods of a class refers to the current instance of the class (the object)
+
+
+1. Inheritance: 
+
+
